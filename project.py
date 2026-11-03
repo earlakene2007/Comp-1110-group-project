@@ -10,4 +10,6 @@ class Monthlybudget:
         self.expenses = 
 
 
-# Gurraj 
+# Gurraj's function 
+def validate_amount(text):
+  
